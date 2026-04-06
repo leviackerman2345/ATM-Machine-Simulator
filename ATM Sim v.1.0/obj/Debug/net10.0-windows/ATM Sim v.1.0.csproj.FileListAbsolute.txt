@@ -1,0 +1,16 @@
+D:\Christian things\ATM Sim v.1.0\ATM Sim v.1.0\obj\Debug\net10.0-windows\ATM_Sim_v._1._0.Form1.resources
+D:\Christian things\ATM Sim v.1.0\ATM Sim v.1.0\obj\Debug\net10.0-windows\ATM Sim v.1.0.csproj.GenerateResource.cache
+D:\Christian things\ATM Sim v.1.0\ATM Sim v.1.0\obj\Debug\net10.0-windows\ATM Sim v.1.0.GeneratedMSBuildEditorConfig.editorconfig
+D:\Christian things\ATM Sim v.1.0\ATM Sim v.1.0\obj\Debug\net10.0-windows\ATM Sim v.1.0.AssemblyInfoInputs.cache
+D:\Christian things\ATM Sim v.1.0\ATM Sim v.1.0\obj\Debug\net10.0-windows\ATM Sim v.1.0.AssemblyInfo.cs
+D:\Christian things\ATM Sim v.1.0\ATM Sim v.1.0\obj\Debug\net10.0-windows\ATM Sim v.1.0.csproj.CoreCompileInputs.cache
+D:\Christian things\ATM Sim v.1.0\ATM Sim v.1.0\bin\Debug\net10.0-windows\ATM Sim v.1.0.exe
+D:\Christian things\ATM Sim v.1.0\ATM Sim v.1.0\bin\Debug\net10.0-windows\ATM Sim v.1.0.deps.json
+D:\Christian things\ATM Sim v.1.0\ATM Sim v.1.0\bin\Debug\net10.0-windows\ATM Sim v.1.0.runtimeconfig.json
+D:\Christian things\ATM Sim v.1.0\ATM Sim v.1.0\bin\Debug\net10.0-windows\ATM Sim v.1.0.dll
+D:\Christian things\ATM Sim v.1.0\ATM Sim v.1.0\bin\Debug\net10.0-windows\ATM Sim v.1.0.pdb
+D:\Christian things\ATM Sim v.1.0\ATM Sim v.1.0\obj\Debug\net10.0-windows\ATM Sim v.1.0.dll
+D:\Christian things\ATM Sim v.1.0\ATM Sim v.1.0\obj\Debug\net10.0-windows\refint\ATM Sim v.1.0.dll
+D:\Christian things\ATM Sim v.1.0\ATM Sim v.1.0\obj\Debug\net10.0-windows\ATM Sim v.1.0.pdb
+D:\Christian things\ATM Sim v.1.0\ATM Sim v.1.0\obj\Debug\net10.0-windows\ATM Sim v.1.0.genruntimeconfig.cache
+D:\Christian things\ATM Sim v.1.0\ATM Sim v.1.0\obj\Debug\net10.0-windows\ref\ATM Sim v.1.0.dll
